@@ -38,8 +38,6 @@
 
 
 ## 📞 Conéctame
-- **LinkedIn**: [Renzo Lozano Depaz](https://www.linkedin.com/in/renzo-lozano-depaz/)
-- **GitHub**: [RenzoLD](https://github.com/RenzoLD)
 - **Correo**: [renzolozano6914@gmail.com](mailto:renzolozano6914@gmail.com)
 
 ¡No dudes en contactarme! 🚀
