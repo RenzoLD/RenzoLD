@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Renzo Lozano Depaz 👋</h1>
 </div>
-
+https://raw.githubusercontent.com/RenzoLD/lottie/refs/heads/main/Animation%20-%201731021156369.json?token=GHSAT0AAAAAACZQYMREH2YLEGLZNIP6JKR4ZZNJNYA
 ## Sobre mí
 - 📱 **Desarrollador Android** con sólida experiencia en Kotlin y arquitectura de software moderna.
 - 💡 Apasionado por crear **aplicaciones modulares y escalables**, implementando principios SOLID y patrones como MVVM y Clean Architecture para asegurar código de alta calidad.
