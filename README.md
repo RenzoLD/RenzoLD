@@ -12,16 +12,23 @@
 
 ## 📂 Proyectos en Desarrollo
 ### 🚀 **GeminiBot 🤖**
-![GeminiBot](https://img.shields.io/badge/Proyecto-Actiuvo-brightgreen)
-GeminiBot es un asistente virtual que interactúa mediante texto y análisis de imágenes. Usando **Kotlin**, **MVVM**, **Room**, y **coroutines** para optimizar el manejo de datos y tareas asíncronas.
-
-[Explorar Código de GeminiBot](https://github.com/RenzoLD/GeminiBot)  
-<img src="https://img.shields.io/badge/C%C3%93DIGO-blue?style=for-the-badge&logo=github&logoColor=white" alt="github">
-
-**Características destacadas:**
-- **Análisis de imágenes** con IA para detectar patrones.
-- Respuestas inteligentes y análisis de texto.
-- Arquitectura limpia, modular y fácil de escalar.
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">Proyecto: GeminiBot 🤖</h3>
+      <div align="center">
+        <p>
+          <a href="https://github.com/RenzoLD/GeminiBot" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-blue?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p>
+          GeminiBot es un asistente virtual impulsado por API, diseñado para responder a consultas de texto y realizar análisis de imágenes. Construido con Kotlin, arquitectura MVVM, Room, y coroutines para optimizar el manejo de datos y tareas asíncronas. ¡Explora cómo este proyecto facilita la interacción natural con una IA de Gemini!
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Estadísticas de GitHub
 
@@ -29,9 +36,6 @@ GeminiBot es un asistente virtual que interactúa mediante texto y análisis de 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoLD&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoLD&show_icons=true&theme=algolia&cache_seconds=1800"/>
-</p>
 
 ## 📞 Conéctame
 - **LinkedIn**: [Renzo Lozano Depaz](https://www.linkedin.com/in/renzo-lozano-depaz/)
