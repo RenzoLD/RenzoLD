@@ -2,8 +2,9 @@
   <h1 align="center">Hola, soy Renzo Lozano Depaz 👋</h1>
 </div>
 
-![Animación](https://github.com/RenzoLD/RenzoLD/raw/main/animation.gif)
-
+<div align="center">
+  <img src="https://github.com/RenzoLD/RenzoLD/raw/main/animation.gif" alt="Animación">
+</div>
 ## Sobre mí
 - 📱 Desarrollador Android con sólida experiencia en Kotlin y arquitectura de software moderna.
 - 💡 Apasionado por crear aplicaciones modulares y escalables, implementando principios SOLID y patrones como MVVM y Clean Architecture para asegurar código de alta calidad.
