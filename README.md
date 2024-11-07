@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hola, soy Renzo Lozano Depaz 👋</h1>
 </div>
-https://github.com/user-attachments/assets/637b93bf-5ab4-4b8e-ae96-80bebb338a27
 
 ## Sobre mí
 - 📱 **Desarrollador Android** con sólida experiencia en Kotlin y arquitectura de software moderna.
