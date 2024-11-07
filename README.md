@@ -3,10 +3,12 @@
 </div>
 ## Sobre mí
 - 📱 **Desarrollador Android** con sólida experiencia en Kotlin y arquitectura de software moderna.
+<br>
 - 💡 Apasionado por crear **aplicaciones modulares y escalables**, implementando principios SOLID y patrones como MVVM y Clean Architecture para asegurar código de alta calidad.
+<br>
 - ⚙️ Familiarizado con herramientas de **inyección de dependencias** (Dagger Hilt), **persistencia de datos** (Room), y **APIs** (Retrofit), además de **pruebas unitarias y de UI**.
+<br>
 - 🌱 Comprometido con la **mejora continua** y el aprendizaje de nuevas tecnologías, como **Jetpack Compose** y **Kotlin Multiplatform**.
-
 <br>
 
 ## 📂 Proyectos en Desarrollo
